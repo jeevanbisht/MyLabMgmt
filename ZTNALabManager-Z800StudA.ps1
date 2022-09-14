@@ -1,3 +1,10 @@
+##Update Version is https://raw.githubusercontent.com/jeevanbisht/MyLabMgmt/main/ZTNALabManager.ps1
+
+
+XXXXXXXXXXXXXXXXXXXXXXXX
+Deprecated
+XXXXXXXXXXXXXXXXXXXXXXXX
+
 ####################################################################################################
 ##
 ## ZTNA Lab Manager
