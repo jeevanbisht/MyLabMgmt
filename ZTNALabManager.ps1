@@ -5,9 +5,10 @@
 ## for comments @jeevanb
 ##
 ####################################################################################################
-#Connect-AzAccount
-#Get-AzSubscription
-#Select-AzSubscription "27fb9e75-fdfd-4da3-bcbe-fa90382cc860"
+
+Connect-AzAccount
+Get-AzSubscription
+Select-AzSubscription "27fb9e75-fdfd-4da3-bcbe-fa90382cc860"
 
 Clear-Host
 Write-Host "#############################################################" -ForegroundColor DarkYellow
